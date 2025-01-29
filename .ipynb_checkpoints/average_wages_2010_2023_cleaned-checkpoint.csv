@@ -1,8 +1,8 @@
-Country,2010,2023,increase
+Country,2010,2023,%_increase
 Luxembourg ,75124,85526,13.85
 Iceland ,58131,81378,39.99
-United States ,67217,80526,19.80
-Switzerland ,74092,79204,6.90
+United States ,67217,80526,19.8
+Switzerland ,74092,79204,6.9
 Belgium ,66769,69874,4.65
 Austria ,66074,67431,2.05
 Norway ,60434,67210,11.21
@@ -15,7 +15,7 @@ New Zealand ,46744,55974,19.75
 France ,53577,55680,3.93
 United Kingdom ,53791,55173,2.57
 Finland ,54056,55048,1.84
-Sweden ,50128,55041,9.80
+Sweden ,50128,55041,9.8
 Ireland ,56563,53384,-5.62
 Slovenia ,44854,53296,18.82
 Spain ,49258,47772,-3.02
@@ -27,7 +27,7 @@ Poland ,30310,39300,29.66
 Latvia ,22507,36925,64.06
 Portugal ,34827,35677,2.44
 Czech Republic ,30524,35576,16.55
-Estonia ,25182,34525,37.10
+Estonia ,25182,34525,37.1
 Hungary ,24943,30216,21.14
 Slovakia ,25831,29838,15.51
 Greece ,37214,28727,-22.81
