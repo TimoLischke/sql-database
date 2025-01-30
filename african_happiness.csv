@@ -1,49 +1,49 @@
-"country name";"ladder score";"regional indicator";"african_happiness"
-"Israel";7.0;"Middle East and North Africa";1
-"Kuwait";7.0;"Middle East and North Africa";1
-"United Arab Emirates";7.0;"Middle East and North Africa";1
-"Saudi Arabia";7.0;"Middle East and North Africa";1
-"Bahrain";6.0;"Middle East and North Africa";1
-"Libya";6.0;"Middle East and North Africa";1
-"Mauritius";6.0;"Sub-Saharan Africa";1
-"South Africa";5.0;"Sub-Saharan Africa";1
-"Algeria";5.0;"Middle East and North Africa";1
-"Mozambique";5.0;"Sub-Saharan Africa";1
-"Iraq";5.0;"Middle East and North Africa";1
-"Gabon";5.0;"Sub-Saharan Africa";1
-"Guinea";5.0;"Sub-Saharan Africa";1
-"Senegal";5.0;"Sub-Saharan Africa";1
-"Iran";5.0;"Middle East and North Africa";1
-"Nigeria";5.0;"Sub-Saharan Africa";1
-"State of Palestine";5.0;"Middle East and North Africa";1
-"Cameroon";5.0;"Sub-Saharan Africa";1
-"Namibia";5.0;"Sub-Saharan Africa";1
-"Morocco";5.0;"Middle East and North Africa";1
-"Niger";5.0;"Sub-Saharan Africa";1
-"Burkina Faso";5.0;"Sub-Saharan Africa";1
-"Mauritania";5.0;"Sub-Saharan Africa";1
-"Gambia";4.0;"Sub-Saharan Africa";1
-"Chad";4.0;"Sub-Saharan Africa";1
-"Kenya";4.0;"Sub-Saharan Africa";1
-"Tunisia";4.0;"Middle East and North Africa";1
-"Benin";4.0;"Sub-Saharan Africa";1
-"Uganda";4.0;"Sub-Saharan Africa";1
-"Ghana";4.0;"Sub-Saharan Africa";1
-"Liberia";4.0;"Sub-Saharan Africa";1
-"Mali";4.0;"Sub-Saharan Africa";1
-"Madagascar";4.0;"Sub-Saharan Africa";1
-"Togo";4.0;"Sub-Saharan Africa";1
-"Jordan";4.0;"Middle East and North Africa";1
-"Egypt";4.0;"Middle East and North Africa";1
-"Ethiopia";4.0;"Sub-Saharan Africa";1
-"Tanzania";4.0;"Sub-Saharan Africa";1
-"Comoros";4.0;"Sub-Saharan Africa";1
-"Yemen";4.0;"Middle East and North Africa";1
-"Zambia";4.0;"Sub-Saharan Africa";1
-"Eswatini";4.0;"Sub-Saharan Africa";1
-"Malawi";3.0;"Sub-Saharan Africa";1
-"Botswana";3.0;"Sub-Saharan Africa";1
-"Zimbabwe";3.0;"Sub-Saharan Africa";1
-"Sierra Leone";3.0;"Sub-Saharan Africa";1
-"Lesotho";3.0;"Sub-Saharan Africa";1
-"Lebanon";3.0;"Middle East and North Africa";1
+"country name","ladder score","regional indicator","african_happiness"
+"Israel",7.0,"Middle East and North Africa",1
+"Kuwait",7.0,"Middle East and North Africa",1
+"United Arab Emirates",7.0,"Middle East and North Africa",1
+"Saudi Arabia",7.0,"Middle East and North Africa",1
+"Bahrain",6.0,"Middle East and North Africa",1
+"Libya",6.0,"Middle East and North Africa",1
+"Mauritius",6.0,"Sub-Saharan Africa",1
+"South Africa",5.0,"Sub-Saharan Africa",1
+"Algeria",5.0,"Middle East and North Africa",1
+"Mozambique",5.0,"Sub-Saharan Africa",1
+"Iraq",5.0,"Middle East and North Africa",1
+"Gabon",5.0,"Sub-Saharan Africa",1
+"Guinea",5.0,"Sub-Saharan Africa",1
+"Senegal",5.0,"Sub-Saharan Africa",1
+"Iran",5.0,"Middle East and North Africa",1
+"Nigeria",5.0,"Sub-Saharan Africa",1
+"State of Palestine",5.0,"Middle East and North Africa",1
+"Cameroon",5.0,"Sub-Saharan Africa",1
+"Namibia",5.0,"Sub-Saharan Africa",1
+"Morocco",5.0,"Middle East and North Africa",1
+"Niger",5.0,"Sub-Saharan Africa",1
+"Burkina Faso",5.0,"Sub-Saharan Africa",1
+"Mauritania",5.0,"Sub-Saharan Africa",1
+"Gambia",4.0,"Sub-Saharan Africa",1
+"Chad",4.0,"Sub-Saharan Africa",1
+"Kenya",4.0,"Sub-Saharan Africa",1
+"Tunisia",4.0,"Middle East and North Africa",1
+"Benin",4.0,"Sub-Saharan Africa",1
+"Uganda",4.0,"Sub-Saharan Africa",1
+"Ghana",4.0,"Sub-Saharan Africa",1
+"Liberia",4.0,"Sub-Saharan Africa",1
+"Mali",4.0,"Sub-Saharan Africa",1
+"Madagascar",4.0,"Sub-Saharan Africa",1
+"Togo",4.0,"Sub-Saharan Africa",1
+"Jordan",4.0,"Middle East and North Africa",1
+"Egypt",4.0,"Middle East and North Africa",1
+"Ethiopia",4.0,"Sub-Saharan Africa",1
+"Tanzania",4.0,"Sub-Saharan Africa",1
+"Comoros",4.0,"Sub-Saharan Africa",1
+"Yemen",4.0,"Middle East and North Africa",1
+"Zambia",4.0,"Sub-Saharan Africa",1
+"Eswatini",4.0,"Sub-Saharan Africa",1
+"Malawi",3.0,"Sub-Saharan Africa",1
+"Botswana",3.0,"Sub-Saharan Africa",1
+"Zimbabwe",3.0,"Sub-Saharan Africa",1
+"Sierra Leone",3.0,"Sub-Saharan Africa",1
+"Lesotho",3.0,"Sub-Saharan Africa",1
+"Lebanon",3.0,"Middle East and North Africa",1

@@ -1,136 +1,136 @@
-"country name";"ladder score";"Increase"
-"Yemen";4.0;62.5374
-"Mali";4.0;55.24
-"Jordan";4.0;53.93958
-"Chad";4.0;53.65149
-"Gabon";5.0;48.36445
-"Niger";5.0;45.84678
-"Gambia";4.0;44.58117
-"Zambia";4.0;41.90103
-"Kuwait";7.0;41.82181
-"Egypt";4.0;39.75634
-"Sierra Leone";3.0;39.26656
-"Ethiopia";4.0;36.84095
-"Benin";4.0;36.4471
-"Afghanistan";2.0;36.33883
-"Togo";4.0;36.06326
-"Pakistan";5.0;35.72365
-"Madagascar";4.0;35.60584
-"Burkina Faso";5.0;35.18543
-"Tanzania";4.0;35.07405
-"Iraq";5.0;32.42351
-"Honduras";6.0;31.0499
-"Mozambique";5.0;30.81931
-"Nigeria";5.0;30.34031
-"Ghana";4.0;30.19886
-"Mauritania";5.0;29.73901
-"Namibia";5.0;29.05224
-"Uganda";4.0;28.75679
-"Malawi";3.0;28.67729
-"Kyrgyzstan";6.0;27.75093
-"Liberia";4.0;27.65474
-"Cameroon";5.0;27.63142
-"Senegal";5.0;27.17739
-"Tajikistan";5.0;25.94831
-"Malta";6.0;25.44741
-"Luxembourg";7.0;25.38839
-"Kazakhstan";6.0;24.00025
-"Uzbekistan";6.0;23.99645
-"Kenya";4.0;23.90324
-"State of Palestine";5.0;23.87137
-"Botswana";3.0;23.67091
-"Guinea";5.0;22.50839
-"Mongolia";6.0;20.61921
-"South Africa";5.0;20.45118
-"Israel";7.0;20.0063
-"Bahrain";6.0;19.56222
-"Iceland";8.0;18.08906
-"Libya";6.0;18.03118
-"Cyprus";6.0;17.79824
-"Malaysia";6.0;17.78785
-"Algeria";5.0;17.24403
-"Lebanon";3.0;16.91628
-"United Arab Emirates";7.0;16.74326
-"Iran";5.0;16.69107
-"Guatemala";6.0;16.05732
-"Philippines";6.0;15.73199
-"Saudi Arabia";7.0;15.63983
-"Comoros";4.0;15.176
-"Panama";6.0;15.01675
-"New Zealand";7.0;14.55821
-"India";4.0;14.48112
-"Cambodia";4.0;14.47619
-"Bolivia";6.0;14.43307
-"Zimbabwe";3.0;13.93933
-"Morocco";5.0;13.69921
-"Ecuador";6.0;13.47048
-"Australia";7.0;13.04703
-"Laos";5.0;12.70247
-"Ireland";7.0;12.35055
-"Indonesia";6.0;12.13378
-"Nicaragua";6.0;12.10631
-"Canada";7.0;11.87257
-"Lesotho";3.0;11.43794
-"Peru";6.0;11.20856
-"Chile";6.0;11.20753
-"Tunisia";4.0;10.43645
-"Sweden";7.0;10.13095
-"Norway";7.0;9.5197
-"Bangladesh";4.0;9.49439
-"Switzerland";7.0;9.3662
-"Argentina";6.0;9.31278
-"Vietnam";6.0;9.1193
-"Azerbaijan";5.0;8.63584
-"Dominican Republic";6.0;8.53459
-"Netherlands";7.0;8.48851
-"Colombia";6.0;8.08641
-"Sri Lanka";4.0;7.73015
-"Austria";7.0;6.97108
-"Thailand";6.0;6.61238
-"Estonia";6.0;5.98043
-"Denmark";8.0;5.97902
-"Singapore";7.0;5.71468
-"Mexico";7.0;5.70423
-"Nepal";5.0;5.44194
-"Belgium";7.0;5.3331
-"Brazil";6.0;4.9323
-"South Korea";6.0;4.4546
-"Costa Rica";7.0;3.89155
-"Finland";8.0;3.19304
-"France";7.0;2.95052
-"Montenegro";6.0;2.725
-"Germany";7.0;2.29877
-"Slovenia";7.0;2.07676
-"China";6.0;1.83224
-"Spain";6.0;1.79347
-"Mauritius";6.0;1.76264
-"Russia";6.0;1.65144
-"Jamaica";6.0;1.44124
-"Slovakia";6.0;0.96451
-"Poland";6.0;0.83373
-"Paraguay";6.0;0.16731
-"Armenia";5.0;-0.34015
-"El Salvador";6.0;-0.71367
-"Uruguay";7.0;-0.93913
-"Portugal";6.0;-1.7437
-"Japan";6.0;-2.55651
-"Hungary";6.0;-2.58767
-"Italy";6.0;-2.82848
-"Lithuania";7.0;-4.95887
-"Bulgaria";5.0;-5.72418
-"Venezuela";6.0;-7.92769
-"Latvia";6.0;-8.29156
-"Croatia";6.0;-9.2864
-"Greece";6.0;-9.71017
-"Georgia";5.0;-11.91744
-"Romania";6.0;-12.13059
-"Moldova";6.0;-12.31934
-"Albania";5.0;-12.35783
-"Ukraine";5.0;-15.75629
-"Bosnia and Herzegovina";6.0;-17.26894
-"Serbia";6.0;-28.85565
-"United Kingdom";7.0;0.0
-"United States";7.0;0.0
-"North Macedonia";5.0;0.0
-"Myanmar";4.0;0.0
-"Eswatini";4.0;0.0
+"country name","ladder score","Increase"
+"Yemen",4.0,62.5374
+"Mali",4.0,55.24
+"Jordan",4.0,53.93958
+"Chad",4.0,53.65149
+"Gabon",5.0,48.36445
+"Niger",5.0,45.84678
+"Gambia",4.0,44.58117
+"Zambia",4.0,41.90103
+"Kuwait",7.0,41.82181
+"Egypt",4.0,39.75634
+"Sierra Leone",3.0,39.26656
+"Ethiopia",4.0,36.84095
+"Benin",4.0,36.4471
+"Afghanistan",2.0,36.33883
+"Togo",4.0,36.06326
+"Pakistan",5.0,35.72365
+"Madagascar",4.0,35.60584
+"Burkina Faso",5.0,35.18543
+"Tanzania",4.0,35.07405
+"Iraq",5.0,32.42351
+"Honduras",6.0,31.0499
+"Mozambique",5.0,30.81931
+"Nigeria",5.0,30.34031
+"Ghana",4.0,30.19886
+"Mauritania",5.0,29.73901
+"Namibia",5.0,29.05224
+"Uganda",4.0,28.75679
+"Malawi",3.0,28.67729
+"Kyrgyzstan",6.0,27.75093
+"Liberia",4.0,27.65474
+"Cameroon",5.0,27.63142
+"Senegal",5.0,27.17739
+"Tajikistan",5.0,25.94831
+"Malta",6.0,25.44741
+"Luxembourg",7.0,25.38839
+"Kazakhstan",6.0,24.00025
+"Uzbekistan",6.0,23.99645
+"Kenya",4.0,23.90324
+"State of Palestine",5.0,23.87137
+"Botswana",3.0,23.67091
+"Guinea",5.0,22.50839
+"Mongolia",6.0,20.61921
+"South Africa",5.0,20.45118
+"Israel",7.0,20.0063
+"Bahrain",6.0,19.56222
+"Iceland",8.0,18.08906
+"Libya",6.0,18.03118
+"Cyprus",6.0,17.79824
+"Malaysia",6.0,17.78785
+"Algeria",5.0,17.24403
+"Lebanon",3.0,16.91628
+"United Arab Emirates",7.0,16.74326
+"Iran",5.0,16.69107
+"Guatemala",6.0,16.05732
+"Philippines",6.0,15.73199
+"Saudi Arabia",7.0,15.63983
+"Comoros",4.0,15.176
+"Panama",6.0,15.01675
+"New Zealand",7.0,14.55821
+"India",4.0,14.48112
+"Cambodia",4.0,14.47619
+"Bolivia",6.0,14.43307
+"Zimbabwe",3.0,13.93933
+"Morocco",5.0,13.69921
+"Ecuador",6.0,13.47048
+"Australia",7.0,13.04703
+"Laos",5.0,12.70247
+"Ireland",7.0,12.35055
+"Indonesia",6.0,12.13378
+"Nicaragua",6.0,12.10631
+"Canada",7.0,11.87257
+"Lesotho",3.0,11.43794
+"Peru",6.0,11.20856
+"Chile",6.0,11.20753
+"Tunisia",4.0,10.43645
+"Sweden",7.0,10.13095
+"Norway",7.0,9.5197
+"Bangladesh",4.0,9.49439
+"Switzerland",7.0,9.3662
+"Argentina",6.0,9.31278
+"Vietnam",6.0,9.1193
+"Azerbaijan",5.0,8.63584
+"Dominican Republic",6.0,8.53459
+"Netherlands",7.0,8.48851
+"Colombia",6.0,8.08641
+"Sri Lanka",4.0,7.73015
+"Austria",7.0,6.97108
+"Thailand",6.0,6.61238
+"Estonia",6.0,5.98043
+"Denmark",8.0,5.97902
+"Singapore",7.0,5.71468
+"Mexico",7.0,5.70423
+"Nepal",5.0,5.44194
+"Belgium",7.0,5.3331
+"Brazil",6.0,4.9323
+"South Korea",6.0,4.4546
+"Costa Rica",7.0,3.89155
+"Finland",8.0,3.19304
+"France",7.0,2.95052
+"Montenegro",6.0,2.725
+"Germany",7.0,2.29877
+"Slovenia",7.0,2.07676
+"China",6.0,1.83224
+"Spain",6.0,1.79347
+"Mauritius",6.0,1.76264
+"Russia",6.0,1.65144
+"Jamaica",6.0,1.44124
+"Slovakia",6.0,0.96451
+"Poland",6.0,0.83373
+"Paraguay",6.0,0.16731
+"Armenia",5.0,-0.34015
+"El Salvador",6.0,-0.71367
+"Uruguay",7.0,-0.93913
+"Portugal",6.0,-1.7437
+"Japan",6.0,-2.55651
+"Hungary",6.0,-2.58767
+"Italy",6.0,-2.82848
+"Lithuania",7.0,-4.95887
+"Bulgaria",5.0,-5.72418
+"Venezuela",6.0,-7.92769
+"Latvia",6.0,-8.29156
+"Croatia",6.0,-9.2864
+"Greece",6.0,-9.71017
+"Georgia",5.0,-11.91744
+"Romania",6.0,-12.13059
+"Moldova",6.0,-12.31934
+"Albania",5.0,-12.35783
+"Ukraine",5.0,-15.75629
+"Bosnia and Herzegovina",6.0,-17.26894
+"Serbia",6.0,-28.85565
+"United Kingdom",7.0,0.0
+"United States",7.0,0.0
+"North Macedonia",5.0,0.0
+"Myanmar",4.0,0.0
+"Eswatini",4.0,0.0
