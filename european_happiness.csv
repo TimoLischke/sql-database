@@ -1,36 +1,36 @@
-"country name";"ladder score";"regional indicator";"european_happiness"
-"Finland";8.0;"Western Europe";1
-"Denmark";8.0;"Western Europe";1
-"Iceland";8.0;"Western Europe";1
-"Sweden";7.0;"Western Europe";1
-"Netherlands";7.0;"Western Europe";1
-"Norway";7.0;"Western Europe";1
-"Luxembourg";7.0;"Western Europe";1
-"Switzerland";7.0;"Western Europe";1
-"Austria";7.0;"Western Europe";1
-"Belgium";7.0;"Western Europe";1
-"Ireland";7.0;"Western Europe";1
-"Lithuania";7.0;"Central and Eastern Europe";1
-"United Kingdom";7.0;"Western Europe";1
-"Slovenia";7.0;"Central and Eastern Europe";1
-"Germany";7.0;"Western Europe";1
-"France";7.0;"Western Europe";1
-"Romania";6.0;"Central and Eastern Europe";1
-"Estonia";6.0;"Central and Eastern Europe";1
-"Poland";6.0;"Central and Eastern Europe";1
-"Spain";6.0;"Western Europe";1
-"Serbia";6.0;"Central and Eastern Europe";1
-"Malta";6.0;"Western Europe";1
-"Italy";6.0;"Western Europe";1
-"Slovakia";6.0;"Central and Eastern Europe";1
-"Latvia";6.0;"Central and Eastern Europe";1
-"Cyprus";6.0;"Western Europe";1
-"Portugal";6.0;"Western Europe";1
-"Hungary";6.0;"Central and Eastern Europe";1
-"Croatia";6.0;"Central and Eastern Europe";1
-"Greece";6.0;"Western Europe";1
-"Bosnia and Herzegovina";6.0;"Central and Eastern Europe";1
-"Montenegro";6.0;"Central and Eastern Europe";1
-"Bulgaria";5.0;"Central and Eastern Europe";1
-"North Macedonia";5.0;"Central and Eastern Europe";1
-"Albania";5.0;"Central and Eastern Europe";1
+"country name","ladder score","regional indicator","european_happiness"
+"Finland",8.0,"Western Europe",1
+"Denmark",8.0,"Western Europe",1
+"Iceland",8.0,"Western Europe",1
+"Sweden",7.0,"Western Europe",1
+"Netherlands",7.0,"Western Europe",1
+"Norway",7.0,"Western Europe",1
+"Luxembourg",7.0,"Western Europe",1
+"Switzerland",7.0,"Western Europe",1
+"Austria",7.0,"Western Europe",1
+"Belgium",7.0,"Western Europe",1
+"Ireland",7.0,"Western Europe",1
+"Lithuania",7.0,"Central and Eastern Europe",1
+"United Kingdom",7.0,"Western Europe",1
+"Slovenia",7.0,"Central and Eastern Europe",1
+"Germany",7.0,"Western Europe",1
+"France",7.0,"Western Europe",1
+"Romania",6.0,"Central and Eastern Europe",1
+"Estonia",6.0,"Central and Eastern Europe",1
+"Poland",6.0,"Central and Eastern Europe",1
+"Spain",6.0,"Western Europe",1
+"Serbia",6.0,"Central and Eastern Europe",1
+"Malta",6.0,"Western Europe",1
+"Italy",6.0,"Western Europe",1
+"Slovakia",6.0,"Central and Eastern Europe",1
+"Latvia",6.0,"Central and Eastern Europe",1
+"Cyprus",6.0,"Western Europe",1
+"Portugal",6.0,"Western Europe",1
+"Hungary",6.0,"Central and Eastern Europe",1
+"Croatia",6.0,"Central and Eastern Europe",1
+"Greece",6.0,"Western Europe",1
+"Bosnia and Herzegovina",6.0,"Central and Eastern Europe",1
+"Montenegro",6.0,"Central and Eastern Europe",1
+"Bulgaria",5.0,"Central and Eastern Europe",1
+"North Macedonia",5.0,"Central and Eastern Europe",1
+"Albania",5.0,"Central and Eastern Europe",1
